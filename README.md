@@ -1,0 +1,2 @@
+# crx-camera
+chromeos-camerapp
